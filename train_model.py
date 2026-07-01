@@ -13,4 +13,9 @@ from sklearn.metrics import {
 
 data = pd.read_csv("dataset/Students Performance Dataset.csv")
 
+X = data[["Study_Hours_per_Week"]]
+y = data["Final_Score"]
+
+
+
 
