@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="StudyMe Banner" width="100%">
 </p>
 
-<h1 align="center">StudyMe</h1>
+<h1 align="center">StudyMe</h1> 
 
 <p align="center">
   <b>AI-Powered Student Performance Prediction using Machine Learning</b>
